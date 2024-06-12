@@ -1,0 +1,12 @@
+
+
+-----Alunos-----
+Nome: akc
+Matricula: 41
+Curso: Computação
+Média: 43.4
+-----Alunos-----
+Nome: aco
+Matricula: 65
+Curso: Software
+Média: 98.5
